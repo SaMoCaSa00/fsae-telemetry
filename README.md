@@ -13,6 +13,11 @@
   <img src="https://img.shields.io/badge/licença-MIT-green">
 </p>
 
+<p align="center">
+  <a href="https://fsae-telemetry.streamlit.app"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Abrir no Streamlit"></a>
+  &nbsp;<b>← teste o dashboard online, sem instalar nada</b>
+</p>
+
 ![Visão geral](docs/overview.png)
 
 ## Por que esse projeto
@@ -107,7 +112,7 @@ pytest
 - [ ] Conversão de latitude/longitude para coordenadas locais
 - [ ] Detecção de setores e "volta ideal" (soma dos melhores setores)
 - [ ] Importadores para formatos específicos de ECU/datalogger
-- [ ] Deploy no Streamlit Community Cloud
+- [x] Deploy no Streamlit Community Cloud
 
 ---
 
